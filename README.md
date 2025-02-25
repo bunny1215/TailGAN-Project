@@ -9,7 +9,7 @@ Dataset_real is synthetic data with 5 distributions.
 
 TailGAN_Scorefunc is visualized score function which can check the joint elicitability of VaR and ES.
 
-Tailgna is the main file of tail gan training. You can check strategies, discriminator, generator, loss function, etc.
+Tailgan is the main file of tail gan training. You can check strategies, discriminator, generator, loss function, etc.
 
 Model_Evaluation is the file for evaluate the distribution of fake dataset. Unlike the real paper, I focused on implemantation of tail gan, so conducted the evlauation process to check how well the fake data follows the distribution of the real data.
 
